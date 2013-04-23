@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'activerecord', '~> 3.2.13'
+gem 'pgcrypto', github: 'sgrif/pgcrypto'
+gem 'rspec'
+gem 'pg'
